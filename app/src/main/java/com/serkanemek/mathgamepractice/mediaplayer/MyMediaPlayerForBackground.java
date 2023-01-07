@@ -17,7 +17,7 @@ public class MyMediaPlayerForBackground {
 
 
     public void playBackgroundMusic(Context context, Integer gameNumber){
-        // 1-MemoryGame & 2-iqGame & 3-newChallenge & 4-MathGame & 5-MathPractice
+       
 
         try {
 
